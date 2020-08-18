@@ -1,0 +1,2 @@
+# sign_gesture_predictions_using_cnn
+Sign languages (also known as signed languages) are languages that utilize the visual-manual methodology to pass on importance. Language is communicated through the manual sign stream in the mix with non-manual components. The dataset called (Sign Language MNIST) is of the American Sign Language hand gestures representing letters. This is a multi-class classification problem with 24 classes of letters ( excluding J and Z which require motion).
